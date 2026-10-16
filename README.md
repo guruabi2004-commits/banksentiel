@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BankSentinel
 
 BankSentinel is a full-stack banking security demonstration. It combines a React interface with an Express and MongoDB API to demonstrate authentication, multi-factor authentication (MFA), basic intrusion detection, intrusion logging, role-based admin views, and a decoy honeypot experience.
@@ -145,3 +146,7 @@ frontend/
   src/components/ login, MFA, customer, admin, and decoy screens
   src/App.jsx    application flow and dashboard selection
 ```
+=======
+# banksentiel
+Good
+>>>>>>> 6615a14144bdd331bcc11cad4666ae79900370d1
